@@ -1,6 +1,6 @@
 ### Hi there, I'm Diego 👋
 
-## Full Stack Developer | Focused in Frontend with Javascript (Angular and React)
+## Full Stack Developer | Focused in Frontend with Javascript (Angular and Next.js)
 
 - 🔭 I’m currently working on Web App for Gym Trainers
 - 🌱 I’m currently learning Angular 17
