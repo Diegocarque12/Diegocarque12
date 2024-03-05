@@ -1,4 +1,4 @@
-### Hi there, I'm Diego 👋
+# Hi there, I'm Diego 👋
 
 ## Full Stack Developer | Focused in Frontend with Javascript (Angular and Next.js)
 
