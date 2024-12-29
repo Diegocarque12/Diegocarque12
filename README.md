@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Diego Carvajal | Full Stack Developer 🚀</h1>
+  <h1>Diego Carvajal | Full Stack Developer 👋</h1>
   <h3>Building the future of web applications, one line at a time</h3>
 </div>
 
