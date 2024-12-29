@@ -14,7 +14,7 @@ Full Stack Developer with 4+ years of experience, passionate about creating exce
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 ## 🚀 What I'm up to
-- 💼 Leading projects at [Qora Development Studio](https://qora.dev)
+- 💼 Leading projects at [Qora](https://qora.dev)
 - 🎯 Currently developing [PrimeFit.coach](https://www.primefit.coach/login) - A SaaS platform for Gym Trainers
 - 💃 Building DASK - An innovative ERP system for Dance Academies
 - 🎮 Developing LUMMA - A cutting-edge Slot Machine Management System
