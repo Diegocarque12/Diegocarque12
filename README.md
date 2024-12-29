@@ -39,6 +39,18 @@ Key focus areas:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegocarque12&layout=compact&theme=radical"/>
 </div>
 
+## 💪 Frontend Mentor Challenges
+I enjoy taking on Frontend Mentor challenges to keep my skills sharp and showcase my attention to detail in pixel-perfect implementations.
+
+<div align="center">
+  <a href="https://fe-mentor-qr-code-component-six.vercel.app/">
+    <img src="https://img.shields.io/badge/QR_Code_Component-View_Solution-4CC9F0?style=for-the-badge&logo=frontend-mentor"/>
+  </a>
+  <a href="https://fe-mentor-simple-omelette-recipe.vercel.app/">
+    <img src="https://img.shields.io/badge/Recipe_Page-View_Solution-4CC9F0?style=for-the-badge&logo=frontend-mentor"/>
+  </a>
+</div>
+
 ## 🌐 Connect with me
 [![Portfolio](https://img.shields.io/badge/Portfolio-dcarvajal.me-blue?style=flat-square&logo=codepen)](https://dcarvajal.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/luis-diego-carvajal)
