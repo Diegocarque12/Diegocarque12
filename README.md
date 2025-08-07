@@ -4,18 +4,18 @@
 
 **Now shipping**
 
-- **PrimeFit** – gym-management SaaS
-- **Dask ERP** – dance-academy management suite
+- **PrimeFit** - gym-management SaaS
+- **Dask ERP** - dance-academy management suite
 - Micro-frontend & WCAG Mid Software Engineer at TransUnion
 - Weekly build-in-public updates on LinkedIn and Instagram
 
 ### What Sets Me Apart
 
-- **Scalable front-end architecture** – React, Vue, Angular, Vite Module Federation
-- **Backend pragmatism** – Node, Deno, Supabase/PostgreSQL, edge functions
-- **Performance & accessibility** – 95 + Lighthouse, audited WCAG 2.2 compliance
-- **Product mindset** – user-driven feature road-mapping and ROI tracking
-- **Clear communication** – bilingual (ES/EN), async-friendly, client-first
+- **Scalable front-end architecture** - React, Vue, Angular, Vite Module Federation
+- **Backend pragmatism** - Node, Deno, Supabase/PostgreSQL, edge functions
+- **Performance & accessibility** - 95 + Lighthouse, audited WCAG 2.2 compliance
+- **Product mindset** - user-driven feature road-mapping and ROI tracking
+- **Clear communication** - bilingual (ES/EN), async-friendly, client-first
 
 ---
 
@@ -66,4 +66,4 @@
 
 ---
 
-> **“Code is poetry written in logic—mine just happens to score 95 + on Lighthouse.”**
+> **“Code is poetry written in logic; mine just happens to score 95 + on Lighthouse.”**
