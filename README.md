@@ -46,6 +46,20 @@
 
 ---
 
+## GitHub Analytics
+
+### Streak Stats
+
+  <img height="220" src="https://github-readme-streak-stats.herokuapp.com?user=Diegocarque12&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak"/>
+  
+  ### Performance Metrics
+  <div >
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Diegocarque12&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegocarque12&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=html,css"/>
+  </div>
+
+---
+
 ### Let’s Connect
 
 [Portfolio and Resume](https://dcarvajal.me) · [LinkedIn](https://www.linkedin.com/in/luis-diego-carvajal) · [Qora.dev Instagram](https://www.instagram.com/qora.dev_/) · [Qora.dev Instagram | Build in Public](https://www.instagram.com/qora.build/)
