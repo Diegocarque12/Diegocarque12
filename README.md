@@ -1,70 +1,55 @@
-<div align="center">
-  <h1>Diego Carvajal | Full Stack Developer 👋</h1>
-  <h3>Building the future of web applications, one line at a time</h3>
-</div>
+## About Me
 
-## 💫 About Me
-Full Stack Developer with 4+ years of expertise in building high-impact web applications. Founder of [Qora Development Studio](https://qora.dev), where we transform business ideas into powerful digital solutions. Specialized in creating scalable frontend architectures using React and Angular, with a proven track record of delivering SaaS platforms from concept to production.
+**Full-Stack Web Engineer (5+ yrs)** based in Costa Rica, focused on performance, accessibility, and elegant code. I run **[Qora Development Studio](https://qora.dev)** a solo boutique turning rough ideas into production-grade SaaS.
 
-My technical versatility spans from crafting pixel-perfect user interfaces to architecting robust backend systems. Currently leading multiple innovative projects including a fitness SaaS platform, a dance academy ERP, and a gaming management system, demonstrating my ability to handle diverse technical challenges across different industries.
+**Now shipping**
 
-Key focus areas:
-- 🎯 SaaS Platform Development
-- 🔄 Scalable Frontend Architectures
-- 💼 Business Process Automation
-- 🚀 Performance Optimization
-- 🛠 Technical Leadership
+- **PrimeFit** – gym-management SaaS
+- **Dask ERP** – dance-academy management suite
+- Micro-frontend & WCAG Mid Software Engineer at TransUnion
+- Weekly build-in-public updates on LinkedIn and Instagram
 
-## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+### What Sets Me Apart
 
-## 🚀 What I'm up to
-- 💼 Leading projects at [Qora](https://qora.dev)
-- 🎯 Currently developing [PrimeFit.coach](https://www.primefit.coach/login) - A SaaS platform for Gym Trainers
-- 💃 Building DASK - An innovative ERP system for Dance Academies
-- 🎮 Developing LUMMA - A cutting-edge Slot Machine Management System
-- 🌱 Always learning and exploring new technologies
-- 💃 When not coding, you'll find me dancing Salsa and Bachata
-
-## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diegocarque12&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegocarque12&layout=compact&theme=radical"/>
-</div>
-
-## 💪 Frontend Mentor Challenges
-I enjoy taking on Frontend Mentor challenges to keep my skills sharp and showcase my attention to detail in pixel-perfect implementations.
-
-<div align="center">
-  <a href="https://fe-mentor-qr-code-component-six.vercel.app/">
-    <img src="https://img.shields.io/badge/QR_Code_Component-View_Solution-4CC9F0?style=for-the-badge&logo=frontend-mentor"/>
-  </a>
-  <a href="https://fe-mentor-simple-omelette-recipe.vercel.app/">
-    <img src="https://img.shields.io/badge/Recipe_Page-View_Solution-4CC9F0?style=for-the-badge&logo=frontend-mentor"/>
-  </a>
-</div>
-
-## 🌐 Connect with me
-[![Portfolio](https://img.shields.io/badge/Portfolio-dcarvajal.me-blue?style=flat-square&logo=codepen)](https://dcarvajal.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/luis-diego-carvajal)
-
-## 🎯 Featured Projects
-<div align="center">
-  <a href="https://www.primefit.coach/login">
-    <img src="https://img.shields.io/badge/PrimeFit.coach-Live%20Project-success?style=for-the-badge&logo=react"/>
-  </a>
-  <img src="https://img.shields.io/badge/DASK-In%20Development-orange?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/LUMMA-In%20Development-orange?style=for-the-badge&logo=react"/>
-</div>
+- **Scalable front-end architecture** – React, Vue, Angular, Vite Module Federation
+- **Backend pragmatism** – Node, Deno, Supabase/PostgreSQL, edge functions
+- **Performance & accessibility** – 95 + Lighthouse, audited WCAG 2.2 compliance
+- **Product mindset** – user-driven feature road-mapping and ROI tracking
+- **Clear communication** – bilingual (ES/EN), async-friendly, client-first
 
 ---
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Diegocarque12&color=blueviolet&style=flat-square"/>
-</div>
+
+## Core Tech Stack
+
+| Front-End                                  | Back-End / DB                          | Tooling & Ops                           |
+| ------------------------------------------ | -------------------------------------- | --------------------------------------- |
+| React · Vue · Angular · Astro · TypeScript | Node.js · Deno · Supabase · PostgreSQL | Git · Docker · Vercel · Figma · VS Code |
+
+---
+
+## Flagship Projects
+
+| Project      | Status         | Highlights                                                    | Stack                               |
+| ------------ | -------------- | ------------------------------------------------------------- | ----------------------------------- |
+| **PrimeFit** | Production     | B2B SaaS for gym coaches: client tracking, workouts, payments | React · TypeScript · Supabase · MUI |
+| **Dask ERP** | In development | ERP for dance academies: student CRM, scheduling, billing     | React · TypeScript · Supabase       |
+| **Qora.dev** | Live           | Agency site focused on performance & accessibility consulting | Astro · Tailwind                    |
+
+---
+
+## Quick Facts
+
+- 95 + average Lighthouse across client projects
+- **Most Innovative Associate – Q2 2025** at TransUnion
+- Micro-frontends served to 120 k + monthly users, zero regressions
+- Salsa & Bachata dancer—discipline on the dance floor, precision in code
+
+---
+
+### Let’s Connect
+
+[Portfolio and Resume](https://dcarvajal.me) · [LinkedIn](https://www.linkedin.com/in/luis-diego-carvajal) · [Qora.dev Instagram](https://www.instagram.com/qora.dev_/) · [Qora.dev Instagram | Build in Public](https://www.instagram.com/qora.build/)
+
+---
+
+> **“Code is poetry written in logic—mine just happens to score 95 + on Lighthouse.”**
